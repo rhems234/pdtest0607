@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import styled, { css } from "styled-components";
+import { styled } from "styled-components";
 
 const categories = [
   { name: "food", text: "부산맛집정보 서비스" },
